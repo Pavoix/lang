@@ -1,6 +1,8 @@
 <?php
 
 return [
+    'global' => 'Global',
+    'not_require' => ':route does not require region selection.',
     'n-virginia'       => 'N. Virginia',
     'ohio'             => 'Ohio',
     'n-california'     => 'N. California',
